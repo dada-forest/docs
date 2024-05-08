@@ -10,6 +10,7 @@ Objectives
     3. DCAT-US ver 1.1, also known as "Project Open Data metadata" (used by data.gov).  
 
 2. Inventory and catalog datasets (including metadata, glossaries, data dictionaries, etc.) related to the Wildfire Crisis Strategy. Inventorying / cataloging other datasets is a longterm interest of the Forest Service and can be incorporated into this project as time allows.  
+
 3. Create and test connections between the selected Forest Service data catalog platform and the USDA enterprise data catalog and data governance platform (currently Axon)  
 
 4. Research, develop, and test the proposed data publication capability using a subset of the inventory from Objective 2. Ensure published datasets are marketed through the Federal data catalog (currently data.gov) and, for geospatial datasets, the Federal Geographic Data Committee’s GeoPlatform.  

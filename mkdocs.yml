@@ -2,11 +2,10 @@ site_name: DADA-Forest
 site_dir: public
 nav:
   - Home: index.md
-  - Metadata Standards: metadata-standards.md
-  - Metadata Examples: metadata-examples.md
-  - USFS: usfs.md
-  - Needs Analysis: needs-analysis.md
-  - About: about.md
+  - 'Test Plan': test-plan.md
+  - 'Catalog and Inventory': catalog.md
+  - 'Existing Infrastrcture and Connections': connections.md
+  - 'R & D and Testing': r-and-d-test.md
 theme: readthedocs
 markdown_extensions:
   - attr_list

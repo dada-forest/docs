@@ -1,4 +1,15 @@
-Resources  
+Project Objectives
+==================
+
+1. [Test Plan](./test-plan.md)  
+
+2. [Catalog and Inventory](./catalog.md)  
+
+3. [Existing Infrastructure Connections](./connections.md)  
+
+4. [Research, develop, and test the proposed data publication capability](./r-and-d-test.md)  
+
+<!-- Resources  
 =========  
 
 University of Arizona
@@ -34,4 +45,4 @@ Cloud / Cyverse
 [Google Earth Engine](https://earthengine.google.com/)  
 [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/)  
 [Dug](https://github.com/helxplatform/dug)  
-    [Dug related research article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9991886/)  
+    [Dug related research article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9991886/)   -->
